@@ -1,7 +1,7 @@
 {
-  "name": "twitter-bot",
+  "name": "binance-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A cryptocurrency bot for the Binance exchange",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -10,12 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "aws-sdk": "^2.528.0",
-    "fs": "0.0.1-security",
-    "path": "^0.12.7",
-    "twit": "^2.2.11"
-  },
+  "dependencies": {},
   "devDependencies": {
     "webpack": "^4.29.0",
     "webpack-cli": "^3.3.8"
